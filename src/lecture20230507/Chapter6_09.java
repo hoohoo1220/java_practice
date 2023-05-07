@@ -8,7 +8,7 @@ class MyMath2 {
     long multiply() { return a * b; }
     double divide() { return a / b; }
 
-    static long      add(long a, long b) { return a + b; }
+    static long add(long a, long b) { return a + b; }
     static long subtract(long a, long b) { return a - b; }
     static long multiply(long a, long b) { return a * b; }
     static double divide(long a, long b) { return a / (double)b; }
