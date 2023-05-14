@@ -1,15 +1,9 @@
 package lecture20230514;
 
-import java.util.Scanner;
-
-public class Fibonacci {
+public class Factorial {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        Number(n);
     }
-
     public static void Number(int n) {
         int[] arr = new int[100];
         int i;
